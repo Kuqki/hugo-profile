@@ -56,7 +56,7 @@ params:
   title: 'Chloe Zhang'
   description: Text about my cool site
   # staticPath: "/resources/_gen/images"  # The path to serve the static files from
-  # favicon: '/logo.png'
+  favicon: '/logo.png'
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -101,7 +101,7 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    # brandLogo: '/logo.png' # Logo for the brand | default is the favicon variable
+    brandLogo: '/logo.png' # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: 'Chloe Zhang' # Brand name for the brand | default is the title variable
     disableSearch: true
@@ -120,11 +120,11 @@ params:
     intro: 'Hi, my name is'
     title: 'Chloe.'
     subtitle: 'Building websites that engage and inspire'
-    content: 'Hello and welcome to my personal website! I am a front-end developer with over 5 years of experience in crafting stunning web experiences.'
+    content: 'Hello and welcome to my personal website! I am a full-stack developer with over 5 years of experience in crafting stunning web experiences.'
     image: '/images/hero.svg'
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+    roundImage: true # Make hero image circular | default false
     # button:
     #   enable: true
     #   name: 'Resume'
@@ -145,7 +145,7 @@ params:
   about:
     enable: true
     title: 'About Me'
-    # image: '/images/me.png'
+    image: '/images/me.png'
     content: |-
       • Experienced full-stack software engineer with 5 years of experience designing and implementing front-end and back- end web applications, utilizing HTML5, CSS3, SCSS, JavaScript, TypeScript, and popular frameworks such as Angular, React.  
       •	Skilled in modules, services, authentication, directives, pipes and reactive forms in Angular.  
