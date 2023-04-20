@@ -174,9 +174,9 @@ params:
     title: 'Work Experience'
     items:
       - job: 'Project: Enterprise Console'
-        company: 'Big Lots Corporate, Columbus, OH'
+        company: 'Big Lots Corporate'
         companyUrl: 'https://www.biglots.com/corporate/'
-        date: 'Oct. 2021 - Present'
+        date: 'Oct 2021 - Present'
         featuredLink:
           enable: false
           name: 'View the project'
@@ -196,9 +196,9 @@ params:
           -	Demonstrated strong communication and teamwork skills by effectively collaborating with team members and stakeholders to gather requirements and provide timely updates.
 
       - job: 'Project: Infrastructure Monitoring Dashboard'
-        company: 'Nationwide Mutual Insurance Company, Columbus, OH'
+        company: 'Nationwide Mutual Insurance Company'
         companyUrl: 'https://www.nationwide.com/'
-        date: 'Sep. 2019 - Sep. 2021'
+        date: 'Sep 2019 - Sep 2021'
         featuredLink:
           enable: false
           url: 'https://example.com'
@@ -218,9 +218,9 @@ params:
           - Conducted unit testing using Jasmine and Karma to ensure code quality and functionality.
 
       - job: 'Project: Operation Workbench'
-        company: 'Alibaba Group, Hangzhou, China'
+        company: 'Alibaba Group'
         companyUrl: 'https://www.alibabagroup.com/en-US/'
-        date: 'Jul. 2017 - Jul. 2019'
+        date: 'Jul 2017 - Jul 2019'
         info:
           enable: false
         featuredLink:
