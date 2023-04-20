@@ -125,12 +125,12 @@ params:
     bottomImage:
       enable: true
     roundImage: true # Make hero image circular | default false
-    # button:
-    #   enable: true
-    #   name: 'Resume'
-    #   url: '#'
-    #   download: true
-    #   newPage: false
+    button:
+      enable: true
+      name: 'Resume'
+      url: 'https://drive.google.com/file/d/1xGvO5yjeYtdNDlf0I_urmHWHVQB2S-d4/view?usp=sharing'
+      download: false
+      newPage: true
     # socialLinks:
     #   fontAwesomeIcons:
     #     - icon: fab fa-github
