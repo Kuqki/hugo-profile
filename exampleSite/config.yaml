@@ -188,7 +188,7 @@ params:
           -	Created forms utilizing controllers, data binding, filters, and expression modules for seamless user interaction.  
           -	Designed modern and visually appealing web page layouts and styles using SCSS to enrich the user interface.  
           -	Implemented navigation between application components using the Angular router module for streamlined user experience.  
-          -	Integrated ngRx for effective state management throughout the application.  
+          -	Integrated NgRx for effective state management throughout the application.  
           -	Worked with MongoDB for data persistence and utilized Node.js libraries such as Mongoose for seamless interaction with the database.  
           -	Utilized Git for version control, merging, and branching to ensure efficient collaboration within the development team.  
           -	Ensured code quality and functionality by writing unit tests using Jasmine and Karma, maintaining a high standard of test coverage and reliability for the platform.  
